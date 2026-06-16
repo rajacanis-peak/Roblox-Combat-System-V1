@@ -5,14 +5,23 @@ A complete, modular, and easily configurable combat system for Roblox games. Thi
 ## Features
 
 ✅ **Modular Architecture** - Each component is independent and reusable
+
 ✅ **Configurable Values** - All balance settings in one central config file
+
 ✅ **Combo System** - Progressive damage multipliers for consecutive attacks
+
 ✅ **Cooldown Management** - Tracks cooldowns for all attack types
+
 ✅ **Health System** - Full health management with regeneration and status effects
+
 ✅ **Weapon System** - Multiple weapons with different stats and properties
+
 ✅ **Damage Calculator** - Advanced damage calculations including crits, elements, and modifiers
+
 ✅ **Status Effects** - Burn, Frozen, Poisoned, Slowed, Stunned
+
 ✅ **Element System** - Fire, Ice, Lightning damage with unique effects
+
 ✅ **Debug Mode** - Built-in debugging and logging
 
 ## Project Structure
